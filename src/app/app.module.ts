@@ -24,7 +24,7 @@ import { MapaEditarComponent } from './components/mapa-editar/mapa-editar.compon
     ReactiveFormsModule,
     MaterialModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBBgFwgpE4TYaItet0lXBATeCK-eazXUS4'
+      apiKey: 'YOUR_APIKEY_HERE'
     })
   ],
   providers: [],
